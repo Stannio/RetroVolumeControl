@@ -1,3 +1,7 @@
-# Volume Control
+# Retro Volume Control
 
-A simple rainmeter skin to control volume
+A Retro volume knob skin for rainmeter
+
+## Usage
+
+Use the scroll wheel to control the knob
