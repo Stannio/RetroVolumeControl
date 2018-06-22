@@ -5,3 +5,5 @@ A Retro volume knob skin for rainmeter
 ## Usage
 
 Use the scroll wheel to control the knob
+
+![alt-text](docs\RetroVolumeControl.png)
